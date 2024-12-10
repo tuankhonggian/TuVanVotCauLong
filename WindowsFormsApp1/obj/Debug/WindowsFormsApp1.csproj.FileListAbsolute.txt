@@ -1,0 +1,536 @@
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangnhap.DangNhap.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\CODE\Hệ chuyên gia\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.URtrangchu.resources
+D:\CODE\Hệ chuyên gia\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.ADtrangchu.resources
+D:\CODE\Hệ chuyên gia\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangky.DangKy.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.TuVan.ADtuvan.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotYonex.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.Utils.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Kimtoo.DbManager.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Npgsql.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.Interfaces.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\Npgsql.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.TTsanphamFrm.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\bin\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.vi-VN.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ITEAM.iteam.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.ThemSP.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.TTCTSanPham.resources
+D:\CODE\Hệ chuyên gia\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotVictor.resources
+D:\CODE\Hệ chuyên gia\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.TuVan.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.FormTuVan.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.KetQua.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFelet.VotFeletUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFlypower.VotFlypowerUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKawasaki.VotKawasakiUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKumpoo.VotKumpooUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotLining.VotLiningUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotMizuno.VotMizunoUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotProace.VotProaceUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotYonex.VotYonexUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotVictor.VotVictor.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.ThongTinChiTiet.TTCTSanPhamUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.CapNhatThongTinSP.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFelet.VotFeletAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFlypower.VotFlypowerAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKawasaki.VotKawasakiAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKumpoo.VotKumpooAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotLining.VotLiningAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotMizuno.VotMizunoAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotProace.VotProaceAD.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotVictor.VotVictorUR.resources
+D:\CODE\Hệ chuyên gia\CauLong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotYonex.VotYonexAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangky.DangKy.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangnhap.DangNhap.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.FormTuVan.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.KetQua.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.TuVan.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ITEAM.iteam.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.ThemSP.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.TTCTSanPham.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.CapNhatThongTinSP.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotVictor.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotYonex.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.ADtrangchu.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.ThongTinChiTiet.TTCTSanPhamUR.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFelet.VotFeletAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFlypower.VotFlypowerAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKawasaki.VotKawasakiAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKumpoo.VotKumpooAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotLining.VotLiningAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotMizuno.VotMizunoAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotProace.VotProaceAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotVictor.VotVictorUR.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotYonex.VotYonexAD.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.URTrangChu.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.TuVan.ADtuvan.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.vi-VN.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Utils.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.DbManager.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Npgsql.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Interfaces.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\Npgsql.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.DSLuat.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdatePLN.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdatePLV.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdateVot.resources
+D:\CODE\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.ThemLuat.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Utils.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\GumroadLicensing.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.BindingProvider.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.DbManager.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\NavigationMenu.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Npgsql.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Interfaces.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\Npgsql.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Common.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\ServiceStack.Text.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.DSLuat.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.ThemLuat.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdatePLN.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdatePLV.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TuVan.UpdateVot.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangky.DangKy.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.dangnhap.DangNhap.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.FormTuVan.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.KetQua.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.FrmTuVan.TuVan.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ITEAM.iteam.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.ThemSP.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.TTCTSanPham.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.CapNhatThongTinSP.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotVictor.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.VotYonex.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.ADtrangchu.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.ThongTinChiTiet.TTCTSanPhamUR.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFelet.VotFeletAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotFlypower.VotFlypowerAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKawasaki.VotKawasakiAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotKumpoo.VotKumpooAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotLining.VotLiningAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotMizuno.VotMizunoAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotProace.VotProaceAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotVictor.VotVictorUR.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.USER.SanPham.VotYonex.VotYonexAD.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.trangchu.URTrangChu.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.TuVan.ADtuvan.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.sanpham.SanPhamControl.vi-VN.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\vi-VN\WindowsFormsApp1.resources.dll
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.DSsukien.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.MucDich.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.ChatLieu.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.ChieuDai.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.ChuVi.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.DoCung.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.MatVot.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.PhanLoaiNguoi.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.PhanLoaiVot.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.SucCang.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.TaiChinh.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.TrinhDo.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.TrongLuong.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.SuKien.TrongLuongVung.resources
+D:\CODE\caulong\caulong1\caulong\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hethong.ADMIN.TrangChu.TrangChu.resources
